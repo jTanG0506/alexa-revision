@@ -56,6 +56,66 @@
               "name": {
                 "value": "degree"
               }
+            },
+            {
+              "name": {
+                "value": "characteristic"
+              }
+            },
+            {
+              "name": {
+                "value": "zero divisor"
+              }
+            },
+            {
+              "name": {
+                "value": "domain"
+              }
+            },
+            {
+              "name": {
+                "value": "integral domain"
+              }
+            },
+            {
+              "name": {
+                "value": "division ring"
+              }
+            },
+            {
+              "name": {
+                "value": "left invertible"
+              }
+            },
+            {
+              "name": {
+                "value": "right invertible"
+              }
+            },
+            {
+              "name": {
+                "value": "unit"
+              }
+            },
+            {
+              "name": {
+                "value": "field"
+              }
+            },
+            {
+              "name": {
+                "value": "nilpotent"
+              }
+            },
+            {
+              "name": {
+                "value": "index of nilpotence"
+              }
+            },
+            {
+              "name": {
+                "value": "idempotent"
+              }
             }
           ]
         }
