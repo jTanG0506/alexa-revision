@@ -12,7 +12,14 @@
             }
           ],
           "samples": [
-            "define {MyKeyword}"
+            "{MyKeyword}",
+            "define {MyKeyword}",
+            "what is a {MyKeyword}",
+            "what is {MyKeyword}",
+            "what is the {MyKeyword}",
+            "what does {MyKeyword} mean",
+            "definition of {MyKeyword}",
+            "what is the definition of {MyKeyword}"
           ]
         },
         {
