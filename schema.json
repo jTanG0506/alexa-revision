@@ -1,18 +1,18 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "Louise",
+      "invocationName": "louise walker",
       "intents": [
         {
           "name": "DefineWord",
           "slots": [
             {
-              "name": "Keyword",
+              "name": "MyKeyword",
               "type": "Keyword"
             }
           ],
           "samples": [
-            "define {Keyword}"
+            "define {MyKeyword}"
           ]
         },
         {
