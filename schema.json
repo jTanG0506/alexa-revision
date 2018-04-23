@@ -189,6 +189,21 @@
               "name": {
                 "value": "principle left ideal"
               }
+            },
+            {
+              "name": {
+                "value": "factor ring"
+              }
+            },
+            {
+              "name": {
+                "value": "maximal"
+              }
+            },
+            {
+              "name": {
+                "value": "prime ideal"
+              }
             }
           ]
         }
