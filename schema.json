@@ -116,6 +116,79 @@
               "name": {
                 "value": "idempotent"
               }
+            },
+            {
+              "name": {
+                "value": "isomorphism"
+              }
+            },
+            {
+              "name": {
+                "value": "isomorphic"
+              }
+            },
+            {
+              "name": {
+                "value": "homomorphism"
+              }
+            },
+            {
+              "name": {
+                "value": "embedding",
+                "synonyms": [
+                  "monomorphism"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "kernel"
+              }
+            },
+            {
+              "name": {
+                "value": "automorphism"
+              }
+            },
+            {
+              "name": {
+                "value": "ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "principle ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "trivial ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "proper ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "left ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "right ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "principle right ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "principle left ideal"
+              }
             }
           ]
         }
