@@ -1,0 +1,220 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "louise walker",
+      "intents": [
+        {
+          "name": "DefineWord",
+          "slots": [
+            {
+              "name": "MyKeyword",
+              "type": "Keyword"
+            }
+          ],
+          "samples": [
+            "{MyKeyword}",
+            "define {MyKeyword}",
+            "what is a {MyKeyword}",
+            "what is {MyKeyword}",
+            "what is the {MyKeyword}",
+            "what does {MyKeyword} mean",
+            "definition of {MyKeyword}",
+            "what is the definition of {MyKeyword}"
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        }
+      ],
+      "types": [
+        {
+          "name": "Keyword",
+          "values": [
+            {
+              "name": {
+                "value": "ring"
+              }
+            },
+            {
+              "name": {
+                "value": "subring"
+              }
+            },
+            {
+              "name": {
+                "value": "subring test"
+              }
+            },
+            {
+              "name": {
+                "value": "polynomial ring"
+              }
+            },
+            {
+              "name": {
+                "value": "degree"
+              }
+            },
+            {
+              "name": {
+                "value": "characteristic"
+              }
+            },
+            {
+              "name": {
+                "value": "zero divisor"
+              }
+            },
+            {
+              "name": {
+                "value": "domain"
+              }
+            },
+            {
+              "name": {
+                "value": "integral domain"
+              }
+            },
+            {
+              "name": {
+                "value": "division ring"
+              }
+            },
+            {
+              "name": {
+                "value": "left invertible"
+              }
+            },
+            {
+              "name": {
+                "value": "right invertible"
+              }
+            },
+            {
+              "name": {
+                "value": "unit"
+              }
+            },
+            {
+              "name": {
+                "value": "field"
+              }
+            },
+            {
+              "name": {
+                "value": "nilpotent"
+              }
+            },
+            {
+              "name": {
+                "value": "index of nilpotence"
+              }
+            },
+            {
+              "name": {
+                "value": "idempotent"
+              }
+            },
+            {
+              "name": {
+                "value": "isomorphism"
+              }
+            },
+            {
+              "name": {
+                "value": "isomorphic"
+              }
+            },
+            {
+              "name": {
+                "value": "homomorphism"
+              }
+            },
+            {
+              "name": {
+                "value": "embedding",
+                "synonyms": [
+                  "monomorphism"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "kernel"
+              }
+            },
+            {
+              "name": {
+                "value": "automorphism"
+              }
+            },
+            {
+              "name": {
+                "value": "ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "principle ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "trivial ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "proper ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "left ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "right ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "principle right ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "principle left ideal"
+              }
+            },
+            {
+              "name": {
+                "value": "factor ring"
+              }
+            },
+            {
+              "name": {
+                "value": "maximal"
+              }
+            },
+            {
+              "name": {
+                "value": "prime ideal"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
